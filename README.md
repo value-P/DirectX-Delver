@@ -1,7 +1,7 @@
 <h1 tabindex="-1" class="heading-element" dir="auto">[DirectX9] 델버</h1>
 
 <p dir="auto">🖥️ 프로젝트 소개</p>
-<p dir="auto">DirectX9을 활용하여 델버를 모작한 4인 팀 포트폴리오입니.</p>
+<p dir="auto">DirectX9을 활용하여 델버를 모작한 4인 팀 포트폴리오입니다.</p>
 <p dir="auto">👤 인원 및 담당</p>
 <p dir="auto">4인 | 팀장, 맵툴, 보스</p>
 <p dir="auto">📆 개발 기간</p>
